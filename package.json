@@ -1,0 +1,30 @@
+{
+    "name": "Phantom_ByUltimateNubZ",
+    "version": "2.0.3",
+    "description": "testing on glitch.com currently",
+    "main": "node index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": "8.4.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/UltimateNubZ/heroku-test"
+    },
+    "author": "UltimateNubZ",
+    "dependencies": {
+      "discord.js": "^11.3.2",
+      "enmap": "^2.6.0",
+      "moment": "^2.22.2",
+      "moment-duration-format": "^2.2.2",
+      "express": "^4.16.3",
+      "ms": "^2.1.1",
+      "urban": "^0.3.1",
+      "superagent": "^3.8.3",
+      "fs": "^0.0.2",
+      "discord-money": "^0.2.0"
+    }
+  }
